@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DataHarmony</string>
+    <string name="init_title">DataHarmony</string>
+    <string name="init_values">Getting data...</string>
+
+</resources>
